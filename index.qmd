@@ -1,11 +1,9 @@
 ---
-title: "oghamedi"
+title: "Omar Ghamedi"
+about:
+  template: trestles
 ---
 
-This is a Quarto website.
+**Research:**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+-   Calabria, Southern Italy: studying landscape response to subduction. Evaluating river profiles for records of landscape uplift and deformation along subduction interface.
