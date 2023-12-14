@@ -1,9 +1,12 @@
 ---
 title: "Omar Ghamedi"
+image: Calabria_image.jpg
+toc: false
 about:
   template: trestles
+  image-shape: rectangle
 ---
 
-**Research:**
+Hello! *Ahlan-Wa-Sahlan!*
 
--   Calabria, Southern Italy: studying landscape response to subduction. Evaluating river profiles for records of landscape uplift and deformation along subduction interface.
+Welcome to my webpage! I am hoping to use this page to provide insights into my struggles with Tectonic Geomorphology! I am a 3rd-year PhD student at Colorado State University working with Dr. Sean Gallen on an NSF funded study of uplift and landscape response across the Calabrian forearc in Southern Italy. I spend a lot of time looking at digital elevation models on Calabria and evaluating many hundreds of rivers. That said, I've been to Calabria twice now for field work, and it's not that bad a place to spend a summer.
