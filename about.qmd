@@ -2,8 +2,30 @@
 title: "About"
 ---
 
-About this site
+**Education:**
 
-```{r}
-1 + 1
-```
+BA Humanities: International Studies with a Minor in History. *Senior Thesis: Napoleon and the War of the Third Coalition* (2005) University of Nebraska at Kearney
+
+MA Literature: Comparative Literature. (2007) University of Nebraska at Kearney
+
+BS "Second Go!": Geosciences - Virginia Tech (2017)
+
+PhD in-progress: Geosciences - Focus on Landscape evolution related to geodynamic processes. Colorado State University
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Languages:
+
+-   Proficient in Arabic (written and spoken)
+
+-   Proficient in English (written and spoken)
+
+Familiarity with German (wouldn't say proficient) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Work Experience:
+
+-   Currently working on PhD using models in Matlab and Python.
+
+-   College educator (2007 - 2015): English Composition, Literature, and Advanced Writing (Fiction and Non-Fiction).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
